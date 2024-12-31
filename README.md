@@ -23,13 +23,13 @@ This project implements simulations of the **Ising model**, a tool in statistica
 
 ### Evolution of the Ising Model
 
-A 10x10 lattice simulated at \( T = 2.5 \) over 100,000 steps, showing the dynamic evolution of spin states.
+A 10x10 lattice simulated at $T = 2.5$ over 100,000 steps, showing the dynamic evolution of spin states.
 
 ![Ising 1](./Code/Ising_Model_10x10_T2.5.gif)
 
 ### Block-Spin Transformation
 
-Comparison of a 90x90 lattice at \( T = 2.5 \) and its transformed 30x30 version using block-spin transformations.
+Comparison of a 90x90 lattice at $T = 2.5$ and its transformed 30x30 version using block-spin transformations.
 
 ![Block Spin](./Code/partA_block_spin_transformation.gif)
 
@@ -81,7 +81,7 @@ The largest cluster size increases as the system approaches the critical tempera
 
 #### Magnetization
 
-Magnetization vs temperature for the original and block-transformed lattices, showing the critical temperature at \( T_c \approx 2.27 \).
+Magnetization vs temperature for the original and block-transformed lattices, showing the critical temperature at $T_c \approx 2.27$.
 
 ![Magnetization](./Images/magnetism_vs_temp.png)
 
